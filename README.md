@@ -23,7 +23,7 @@
 
 More details, including a derivation of the value of each address based on rarity and examples of how gas-efficient addresses can be put to use, can be found [here](https://medium.com/@0age/on-efficient-ethereum-addresses-3fef0596e263).
 
-`Pr000xy` on Ropsten: [0x000000009a9fc3ac5280bA0D3eA852E57DD2ac1b](https://ropsten.etherscan.io/address/0x000000009a9fc3ac5280ba0d3ea852e57dd2ac1b) (Solidity 0.5.1, 33333 optimization runs)
+`Pr000xy` on Ropsten: [0x000000009a9fc3ac5280bA0D3eA852E57DD2ac1b](https://ropsten.etherscan.io/address/0x000000009a9fc3ac5280ba0d3ea852e57dd2ac1b) (Solidity 0.5.177, 33333 optimization runs)
 `Create2Factory` on Ropsten: [0xa779284f095ef2eBb8ee26cd8384e49C57b26996](https://ropsten.etherscan.io/address/0xa779284f095ef2eBb8ee26cd8384e49C57b26996)
 
 ## Table of Contents
