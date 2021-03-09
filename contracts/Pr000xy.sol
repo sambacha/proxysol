@@ -1,4 +1,4 @@
-pragma solidity 0.5.177;
+pragma solidity 0.5.17;
 
 // Pr000xy - a public utility ERC20 for creating & claiming transparent proxies
 // with gas-efficient addresses. Tokens are minted when specific salts or nonces
